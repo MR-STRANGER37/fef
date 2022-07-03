@@ -216,8 +216,8 @@ body{
 @media screen and (max-width:800px) {
 
     .f2-h1{
-        width: 20%;
-        font-size: 200%;
+        width: 30%;
+        font-size: 300%;
         color: white;
         margin: 0;
         margin-left: 15%;
@@ -225,6 +225,9 @@ body{
     }
 
 
+    .line{
+        margin-bottom: -3%;
+    }
 
   .f1-r2{
     display: none;
